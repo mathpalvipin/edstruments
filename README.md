@@ -2,6 +2,8 @@
 ### Objective
 This project is a responsive React application built to meet the following requirements:
 
+Live : https://edstruments.vercel.app/one
+
 ### Header (Navigation Bar)
 Structure: A responsive navigation bar containing three navigation items: "One," "Two," and "Three."
 
